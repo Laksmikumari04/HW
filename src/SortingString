@@ -1,0 +1,12 @@
+package Dec23Java;
+
+import java.util.Arrays;
+
+public class SortingString {
+    public static void main(String[] args) {
+        String[] name ={"LAKI","AMIT","RAVI","LOVELY","JIMMI"};
+        System.out.println("Original Value Name"+ Arrays.toString(name));
+        Arrays.sort(name);
+        System.out.println("Sort Value name"+Arrays.toString(name));
+    }
+}
