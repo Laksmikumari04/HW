@@ -37,5 +37,9 @@ public class Stringmethod {
         String value ="Java is a programming language. Java is a platform. Java is an Island.";
         System.out.println(value.replace("Java","Kava"));
 
+        String n="Ravi";
+        System.out.println();
+
+
     }
 }
