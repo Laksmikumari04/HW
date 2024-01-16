@@ -1,0 +1,44 @@
+package Dec23Java;
+
+public class Array2D {
+    public static void main(String[] laki) {
+        // 2D array Code
+        //Questing 2 Row & 4 column in 2D Array
+        int[][] value = {{1, 2, 3, 4}, {5, 6, 7, 8}};
+        System.out.println(value[1][0]); //---> Value should come 5
+        System.out.println(value[0][0]); //---> Value should come 1
+        int i;
+        for (i = 0; i < value.length; i++) ;
+        System.out.println("Length Value" + " " + value.length);
+        System.out.println("Print all Value");
+        for (int j = 0; j < 2; j++) {
+            for (int k = 0; k < 4; k++) {
+                System.out.print(value[j][k] +" ");
+            }
+            System.out.println();
+        }
+
+        System.out.println();
+        //                     |Row|  |Column|
+        int[][] Value2 = new int[5][2];
+        Value2[0][0] = 1;
+        Value2[0][1] = 2;
+        Value2[1][0] = 3;
+        Value2[1][1] = 4;
+        Value2[2][0] = 5;
+        Value2[2][1] = 6;
+        Value2[3][0] = 7;
+        Value2[3][1] = 8;
+        Value2[4][0] = 9;
+        Value2[4][1] = 10;
+        for(int m=0;m<5;m++){
+            for(int n=0;n<2;n++){
+                System.out.print(Value2[m][n]+" ");
+            }
+            System.out.println();
+
+        //for (int z = 0; z < Value2.length; z++) {
+          //  System.out.println(Value2.length);
+            // }
+        }
+    }
