@@ -1,6 +1,8 @@
-package src.OopsInheritance;
+package src.OopsInheritance.Multilevel;
 
-public class Java  extends Programming{
+import src.OopsInheritance.Single.Programming;
+
+public class Java  extends Programming {
     String new_Feature;
 
     Java(){

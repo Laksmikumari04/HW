@@ -1,4 +1,4 @@
-package src.OopsInheritance;
+package src.OopsInheritance.Single;
 
 public class Programming {
      int version;

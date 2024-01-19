@@ -1,4 +1,6 @@
-package src.OopsInheritance;
+package src.OopsInheritance.Single;
+
+import src.OopsInheritance.Multilevel.Java;
 
 public class Lab0147 {
     public static void main(String[] args) {
