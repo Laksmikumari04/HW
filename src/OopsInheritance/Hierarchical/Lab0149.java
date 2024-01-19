@@ -26,7 +26,7 @@ public class Lab0149 {
 
 //Note 3 : Parent Class/ Super Class/ base class
 
-// Note 4 : Child class / sub-class/ derived class
+// Note 4 : Child class / subclass/ derived class
 
 // Note 5 : types :Sinle 2. Multilevel ( A->B -> C) 3.Hierarchical (A->B) (A->C)
 // Note 6 : Only instance Varaible can access another extends class

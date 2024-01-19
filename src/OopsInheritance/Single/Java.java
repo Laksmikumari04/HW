@@ -1,4 +1,4 @@
-package src.OopsInheritance.Multilevel;
+package src.OopsInheritance.Single;
 
 import src.OopsInheritance.Single.Programming;
 
