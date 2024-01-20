@@ -1,4 +1,4 @@
-package src.Encapsulation.accessmodifer.Police;
+package src.OOpsEncapsulation.accessmodifer.Police;
 
 public class JuniorCop {
     public static void main(String[] args) {

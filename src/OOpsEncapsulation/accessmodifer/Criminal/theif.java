@@ -1,6 +1,6 @@
-package src.Encapsulation.accessmodifer.Criminal;
+package src.OOpsEncapsulation.accessmodifer.Criminal;
 
-import src.Encapsulation.accessmodifer.Police.cop;
+import src.OOpsEncapsulation.accessmodifer.Police.cop;
 
 public class theif {
     public static void main(String[] args) {
