@@ -15,6 +15,7 @@ public class Firefox extends Base{
     String Closebrowser() {
         System.out.println("Close firefox browser");
         return null;
+
     }
 
     public static void main(String[] args) {

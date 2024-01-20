@@ -7,6 +7,7 @@ public  abstract class Base {
     String code;
     int EMP_ID;
 
+    //Parameterized Constructor
     Base(String name,String code, int EMP_ID){
         this.code= code;
         this.name = name;
@@ -20,7 +21,8 @@ public  abstract class Base {
 
   void PrintLog(){
       System.out.println("Log");
-      System.out.println(name);
+      System.out.println(name
+      );
       System.out.println(code);
       System.out.println(EMP_ID);
   }
