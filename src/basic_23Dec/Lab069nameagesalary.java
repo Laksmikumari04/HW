@@ -2,7 +2,7 @@ package src.basic_23Dec;
 
 import java.util.Scanner;
 
-public class Lab069 {
+public class Lab069nameagesalary {
     public static void main(String[] args) {
         // Take a user input and print the information
 

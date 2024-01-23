@@ -4,6 +4,7 @@ public class Lab154_StaticInner {
     public static void main(String[] args) {
         OOC ooc = new OOC();
         OOC.SNCI sinner =new OOC.SNCI();
+    // syntax  Outer.Inner Inref = new Outer.Inner();
         sinner.show();
 
     }
