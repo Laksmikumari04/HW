@@ -20,6 +20,10 @@ public class Lab160_Wrapper {
         System.out.println(Integer.MIN_VALUE);
         System.out.println(Integer.min(10,20));
 
+        double d=90.87;
+        String s =String.valueOf(d);
+        Double in =Double.valueOf((int) d);
+
 
 
 }}
