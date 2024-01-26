@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Lab182Linkdest {
+public class Lab182Linkdlist {
     public static void main(String[] args) {
         List value =new LinkedList();
         value.add("Ravi");
