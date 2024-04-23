@@ -3,9 +3,9 @@ package src.Interview_Question;
 public class String_Reverse {
     public static void main(String[] args) {
         String name = "Pramod";
-        String y = " ";
+        String y = "";
 //be careful for  for value
-        for (int i = name.length() - 1; i > 0; i--) {
+        for (int i = name.length() - 1; i >= 0; i--) {
             y = y + name.charAt(i);
 
         }

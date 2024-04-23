@@ -2,15 +2,15 @@ package src.Interview_Question;
 
 public class MasknumberLast4 {
     public static void main(String[] args) {
-        String carnumber ="24689765438";
+        String cardnumber ="24689765438";
 
-        String maskoutput= masknumber1(carnumber);
+        String maskoutput= masknumber1(cardnumber);
         System.out.println(maskoutput);
     }
 
 
     public static String masknumber1(String number){
-        int lenght =number.length();
+       int lenght=  number.length();
         if (lenght<=4){
         return number;
         }
