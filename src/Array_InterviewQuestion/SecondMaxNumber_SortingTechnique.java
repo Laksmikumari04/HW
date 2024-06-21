@@ -15,6 +15,10 @@ public class SecondMax_SortingTechnique {
         }
 
         System.out.println("Print Second largest Number"+array[1]);
+        for(int i=0;i< array.length;i++){
+            System.out.println(array[i]);
+        }
+
 
     }
 }
