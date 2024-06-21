@@ -1,3 +1,4 @@
+
 package src.Interview_Question;
 
 public class MaskNumberLast3 {
@@ -8,7 +9,6 @@ public class MaskNumberLast3 {
         System.out.println(masknumber);
 
     }
-
     private static String masknumber(String number) {
         int length = number.length();
         if (length <= 3) {

@@ -12,6 +12,7 @@ public class String_Sorting {
         sort_str.add("Laki");
         sort_str.add("Pramod");
         sort_str.add("Rohit");
+        sort_str.add("Rohit");
         Collections.sort(sort_str);
         System.out.println(sort_str);
 
@@ -20,6 +21,7 @@ public class String_Sorting {
         setsort_Value.add("Ravi");
         setsort_Value.add("Suresh");
         setsort_Value.add("LaKi");
+        setsort_Value.add("Amit");
         setsort_Value.add("Amit");
         System.out.println(setsort_Value);
 

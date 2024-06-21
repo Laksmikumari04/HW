@@ -1,6 +1,6 @@
 package src.Array_InterviewQuestion;
 
-public class SecondMax_SortingTechnique {
+public class SecondMaxNumber_SortingTechnique {
     public static void main(String[] args) {
         int[] array={2,4,10,20,90,50,};
         int temp;

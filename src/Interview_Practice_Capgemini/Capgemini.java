@@ -1,7 +1,8 @@
-package src.Interview_Practice_Session;
+package src.Interview_Practice_Capgemini;
 
 public class Capgemini {
     public static void main(String[] args) {
+        //Finding Missing Number
 
                 int[] array = { 1, 2, 3, 5, 6,7 };
 

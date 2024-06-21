@@ -18,7 +18,8 @@ public class SwitchTable {
                     System.out.println("8");
                     break;case 5:
                     System.out.println("10");
-                    break;case 6:
+                    break;
+                    case 6:
                     System.out.println("12");
                     break;case 7:
                     System.out.println("14");

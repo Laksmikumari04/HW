@@ -1,7 +1,5 @@
 package src.Interview_Question.Hashmap;
 
-import src.Genric;
-
 import java.util.HashMap;
 
 public class Reterive_Value {

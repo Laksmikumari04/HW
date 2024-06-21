@@ -2,7 +2,7 @@ package src.PracticeP;
 
 public class String_Palindrome01 {
     public static void main(String[] args) {
-        String name="mam";
+        String name="mame";
         // length, charAT(), equals
       int lenght=   name.length();
       String reverse="";

@@ -1,11 +1,13 @@
-package src.Interview_Practice_Session;
+package src.Interview_Practice_Capgemini;
 
 public class ClassA {
-    void methodA(){
+    void methodA()
+    {
         System.out.println("Method A");
     }}
     class ClassBB extends ClassA {
-        void methodB() {
+        void methodB()
+        {
             System.out.println("Method B");
         }
 
