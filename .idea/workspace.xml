@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c35a89d-8d62-4447-ae54-ed3eaa6f23e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/karatelabs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Array_Practice/EqulibriumNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Array_Practice/MaxNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Array_Practice/MaxNo_Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Array_Practice/MaxNo_Sorting_Both_technique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Array_Practice/MaxNumber_First_Technique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String_Practice/DuplicateCharacter_CountNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String_Practice/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String_Practice/VowelConsonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String_Practice/VowelConsonant_Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String_Practice/VowelConsonant_SepratedCount.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2rfgPep6uC6dAS2wxz7GK1I8tLT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DuplicateCharacter_CountNo.executor": "Run",
+    "Application.EqulibriumNo.executor": "Run",
+    "Application.MaxNo.executor": "Run",
+    "Application.MaxNo_Second.executor": "Run",
+    "Application.MaxNo_Sorting_Both_technique.executor": "Run",
+    "Application.MaxNo_Sorting_both_technique.executor": "Run",
+    "Application.MaxNo_Third.executor": "Run",
+    "Application.MaxNumber_Technique.executor": "Run",
+    "Application.StringReverse.executor": "Run",
+    "Application.VowelConsonant.executor": "Run",
+    "Application.VowelConsonant_Count.executor": "Run",
+    "Application.VowelConsonant_SepratedCount.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/laki/IdeaProjects/Interview_Preprations/src/main/java/io/karatelabs/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.EqulibriumNo">
+    <configuration name="DuplicateCharacter_CountNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Practice.DuplicateCharacter_CountNo" />
+      <module name="Interview_Preprations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqulibriumNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Practice.EqulibriumNo" />
+      <module name="Interview_Preprations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxNo_Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Practice.MaxNo_Second" />
+      <module name="Interview_Preprations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxNo_Sorting_Both_technique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Practice.MaxNo_Sorting_Both_technique" />
+      <module name="Interview_Preprations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxNo_Third" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Practice.MaxNo_Third" />
+      <module name="Interview_Preprations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EqulibriumNo" />
+        <item itemvalue="Application.DuplicateCharacter_CountNo" />
+        <item itemvalue="Application.MaxNo_Sorting_Both_technique" />
+        <item itemvalue="Application.MaxNo_Third" />
+        <item itemvalue="Application.MaxNo_Second" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c35a89d-8d62-4447-ae54-ed3eaa6f23e3" name="Changes" comment="" />
+      <created>1736955523209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736955523209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/karatelabs/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
