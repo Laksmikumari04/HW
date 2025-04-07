@@ -21,6 +21,8 @@ public class EqulibriumNo {
         }
         {
             System.out.println("No Equlibrium No. found ");
+
+
         }
     }
 }

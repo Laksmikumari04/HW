@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c35a89d-8d62-4447-ae54-ed3eaa6f23e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/karatelabs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Array_Practice/EqulibriumNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Array_Practice/MaxNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Array_Practice/MaxNo_Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Array_Practice/MaxNo_Sorting_Both_technique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Array_Practice/MaxNumber_First_Technique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/String_Practice/DuplicateCharacter_CountNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/String_Practice/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/String_Practice/VowelConsonant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/String_Practice/VowelConsonant_Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/String_Practice/VowelConsonant_SepratedCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String_Practice/ReverseInSamePostion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/String_Practice/StringReverse_Complete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Array_Practice/EqulibriumNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Array_Practice/EqulibriumNo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -58,14 +49,16 @@
     "Application.MaxNo_Sorting_both_technique.executor": "Run",
     "Application.MaxNo_Third.executor": "Run",
     "Application.MaxNumber_Technique.executor": "Run",
+    "Application.ReverseInSamePostion.executor": "Run",
     "Application.StringReverse.executor": "Run",
+    "Application.StringReverse_Complete.executor": "Run",
     "Application.VowelConsonant.executor": "Run",
     "Application.VowelConsonant_Count.executor": "Run",
     "Application.VowelConsonant_SepratedCount.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Interview__Practice",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/laki/IdeaProjects/Interview_Preprations/src/main/java/io/karatelabs/Main.java",
     "project.structure.last.edited": "Modules",
@@ -73,7 +66,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EqulibriumNo">
+  <component name="RunManager" selected="Application.ReverseInSamePostion">
     <configuration name="DuplicateCharacter_CountNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String_Practice.DuplicateCharacter_CountNo" />
       <module name="Interview_Preprations" />
@@ -100,19 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxNo_Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Practice.MaxNo_Second" />
-      <module name="Interview_Preprations" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array_Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MaxNo_Sorting_Both_technique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array_Practice.MaxNo_Sorting_Both_technique" />
       <module name="Interview_Preprations" />
@@ -126,12 +106,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxNo_Third" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Practice.MaxNo_Third" />
+    <configuration name="ReverseInSamePostion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Practice.ReverseInSamePostion" />
       <module name="Interview_Preprations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Practice.*" />
+          <option name="PATTERN" value="String_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringReverse_Complete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Practice.StringReverse_Complete" />
+      <module name="Interview_Preprations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseInSamePostion" />
+        <item itemvalue="Application.StringReverse_Complete" />
         <item itemvalue="Application.EqulibriumNo" />
         <item itemvalue="Application.DuplicateCharacter_CountNo" />
         <item itemvalue="Application.MaxNo_Sorting_Both_technique" />
-        <item itemvalue="Application.MaxNo_Third" />
-        <item itemvalue="Application.MaxNo_Second" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +153,14 @@
     </task>
     <servers />
   </component>
+  <component name="WfRunsListSearchHistory"><![CDATA[{
+  "history": [
+    {
+    }
+  ],
+  "lastFilter": {
+  }
+}]]></component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
